@@ -1,4 +1,5 @@
 Mini save manager for VVVVVV for Archipelago. Used to run multiple separate VVVVVV saves in a singular archipelago game.
+Windows only, sorry linux girlies
 
 Base Setup:
 - Create a new folder anywhere - this will be reffered to as the base folder
