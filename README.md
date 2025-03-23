@@ -14,4 +14,4 @@ Archipelago Setup:
 - Running each executable will launch its separate save. Multiple games can be launched simultaniously.
 - Example setup:
   
-![obraz](https://github.com/user-attachments/assets/bb26dbc0-b05c-4435-8285-60b57cc7be55)
+![obraz](https://github.com/user-attachments/assets/36eec045-92d6-475e-98dd-cd85e028fcf7)
