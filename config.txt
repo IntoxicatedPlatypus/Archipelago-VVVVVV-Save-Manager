@@ -1,2 +1,2 @@
-localhost:1
+archipelago.gg:38281
 secretPassword
